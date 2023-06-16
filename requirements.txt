@@ -1,0 +1,6 @@
+# Hepsini import etmek için "pip install -r requirements.txt" yazmanız yeterli olacaktır.
+
+
+pyspeedtest
+speedtest
+speedtest-cli
